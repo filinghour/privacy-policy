@@ -44,7 +44,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 **8. COMPLIANCE WITH CHILDREN'S ONLINE PRIVACY PROTECTION ACT**
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Application from those we actually know are under 13, and no part of our application is structured to attract anyone under 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at support@instied.com. We will delete such information from our files within a reasonable time.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Application from those we actually know are under 13, and no part of our application is structured to attract anyone under 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at support@filinghour.com. We will delete such information from our files within a reasonable time.
 
 **9. CHANGES TO THIS PRIVACY POLICY**
 
@@ -52,5 +52,5 @@ FilingHour has the discretion to update this privacy policy at any time. When we
 
 **10. CONTACT US**
 
-If you have any questions about this Privacy Policy, the practices of this application, or your dealings with this application, please contact us via email at support@instied.com.
+If you have any questions about this Privacy Policy, the practices of this application, or your dealings with this application, please contact us via email at support@filinghour.com.
 
